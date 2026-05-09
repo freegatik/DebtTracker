@@ -5,10 +5,10 @@
 //  Created by Anton Solovev on 06.05.2026.
 //
 
-@testable import Zaimka
 import Foundation
 import SwiftData
 import Testing
+@testable import Zaimka
 
 // MARK: - CreditStorageTests
 

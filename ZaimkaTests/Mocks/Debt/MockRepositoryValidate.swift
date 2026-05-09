@@ -5,8 +5,8 @@
 //  Created by Anton Solovev on 06.05.2026.
 //
 
-@testable import Zaimka
 import SwiftUI
+@testable import Zaimka
 
 // MARK: - MockRepositoryValidate
 

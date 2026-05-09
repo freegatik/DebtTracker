@@ -5,8 +5,8 @@
 //  Created by Anton Solovev on 27.04.2024.
 //
 
-@testable import Zaimka
 import Testing
+@testable import Zaimka
 
 // MARK: - CalculatorViewModelTests
 

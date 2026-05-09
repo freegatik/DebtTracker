@@ -5,9 +5,9 @@
 //  Created by Anton Solovev on 06.05.2026.
 //
 
-@testable import Zaimka
 import SwiftUI
 import Testing
+@testable import Zaimka
 
 // MARK: - UsecaseValidateImplTests
 

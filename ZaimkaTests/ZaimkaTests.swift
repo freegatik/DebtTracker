@@ -5,9 +5,9 @@
 //  Created by Anton Solovev on 28.04.2024.
 //
 
-@testable import Zaimka
 import SwiftUI
 import Testing
+@testable import Zaimka
 
 struct ZaimkaTests {
     @Test func homeViewBasicElements() async {

@@ -15,7 +15,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2A4AF9350DF99EDF0E9A7880"
+               BlueprintIdentifier = "FC38E49F8B9648DAF9AEA13E"
                BuildableName = "Zaimka.app"
                BlueprintName = "Zaimka"
                ReferencedContainer = "container:Zaimka.xcodeproj">
@@ -32,7 +32,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2A4AF9350DF99EDF0E9A7880"
+            BlueprintIdentifier = "FC38E49F8B9648DAF9AEA13E"
             BuildableName = "Zaimka.app"
             BlueprintName = "Zaimka"
             ReferencedContainer = "container:Zaimka.xcodeproj">
@@ -44,7 +44,7 @@
             parallelizable = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "CF73476FD513269A4755A73E"
+               BlueprintIdentifier = "4FB2577F7910BE4F1C030FF9"
                BuildableName = "ZaimkaTests.xctest"
                BlueprintName = "ZaimkaTests"
                ReferencedContainer = "container:Zaimka.xcodeproj">
@@ -68,7 +68,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2A4AF9350DF99EDF0E9A7880"
+            BlueprintIdentifier = "FC38E49F8B9648DAF9AEA13E"
             BuildableName = "Zaimka.app"
             BlueprintName = "Zaimka"
             ReferencedContainer = "container:Zaimka.xcodeproj">
@@ -87,7 +87,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2A4AF9350DF99EDF0E9A7880"
+            BlueprintIdentifier = "FC38E49F8B9648DAF9AEA13E"
             BuildableName = "Zaimka.app"
             BlueprintName = "Zaimka"
             ReferencedContainer = "container:Zaimka.xcodeproj">
